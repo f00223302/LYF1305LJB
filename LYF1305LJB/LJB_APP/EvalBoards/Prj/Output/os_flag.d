@@ -1,0 +1,16 @@
+.\Output\os_flag.o: ..\..\uCOS-II\Source\os_flag.c
+.\Output\os_flag.o: ..\..\uCOS-II\Source\ucos_ii.h
+.\Output\os_flag.o: ..\App\app_cfg.h
+.\Output\os_flag.o: D:\Keil\ARM\RV31\INC\stdio.h
+.\Output\os_flag.o: ..\..\uC-CPU\cpu_core.h
+.\Output\os_flag.o: ..\..\uC-CPU\ARM-Cortex-M3\cpu.h
+.\Output\os_flag.o: ..\..\uC-CPU\cpu_def.h
+.\Output\os_flag.o: ..\App\cpu_cfg.h
+.\Output\os_flag.o: ..\..\uC-LIB\lib_def.h
+.\Output\os_flag.o: ..\..\uC-LIB\lib_mem.h
+.\Output\os_flag.o: ..\..\uC-CPU\cpu_core.h
+.\Output\os_flag.o: ..\App\lib_cfg.h
+.\Output\os_flag.o: ..\..\uC-LIB\lib_str.h
+.\Output\os_flag.o: ..\..\uC-LIB\lib_ascii.h
+.\Output\os_flag.o: ..\App\os_cfg.h
+.\Output\os_flag.o: ..\..\uCOS-II\Ports\ARM-Cortex-M3\os_cpu.h

@@ -1,0 +1,11 @@
+.\Output\cpu_c.o: ..\..\uC-CPU\ARM-Cortex-M3\cpu_c.c
+.\Output\cpu_c.o: ..\..\uC-CPU\ARM-Cortex-M3\cpu.h
+.\Output\cpu_c.o: ..\..\uC-CPU\cpu_def.h
+.\Output\cpu_c.o: ..\App\cpu_cfg.h
+.\Output\cpu_c.o: ..\..\uC-CPU\cpu_core.h
+.\Output\cpu_c.o: ..\..\uC-LIB\lib_def.h
+.\Output\cpu_c.o: ..\..\uC-LIB\lib_mem.h
+.\Output\cpu_c.o: ..\..\uC-CPU\cpu_core.h
+.\Output\cpu_c.o: ..\App\lib_cfg.h
+.\Output\cpu_c.o: ..\..\uC-LIB\lib_str.h
+.\Output\cpu_c.o: ..\..\uC-LIB\lib_ascii.h
